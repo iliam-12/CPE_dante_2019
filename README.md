@@ -1,5 +1,5 @@
 # dante's star
-# 60%
+## 60%
 
 demo : make re && ./generator/generator 20 10 && echo '\n' && ./solver/solver solver/map.txt 
 
