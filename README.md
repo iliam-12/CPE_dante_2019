@@ -2,6 +2,6 @@
 ## 60%
 PDF available
 ##### generate maze :
-<code> make re && ./generator/generator 20 10 (perfect) > map.txt </code>
+     make re && ./generator/generator 20 10 (perfect) > map.txt </code>
 ##### solve this maze :
-<code> ./solver/solver map.txt </code>
+     ./solver/solver map.txt </code>
