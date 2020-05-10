@@ -1,7 +1,7 @@
 # dante's star
 ## 60%
 
-#### Usage:
+### Usage:
    ##### generate maze :
     make re && ./generator/generator 20 10 > map.txt
    ##### solve this maze :
