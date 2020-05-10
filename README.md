@@ -1,6 +1,6 @@
 # dante's star
 ## 60%
-PDF is available
+PDF available
 ##### generate maze :
     make re && ./generator/generator 20 10 > map.txt
 ##### solve this maze :
