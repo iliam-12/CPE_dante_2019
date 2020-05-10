@@ -2,7 +2,7 @@
 ## 60%
 
 #### Usage:
-##### generate maze :
+   ##### generate maze :
     make re && ./generator/generator 20 10 > map.txt
-##### solve this maze :
+   ##### solve this maze :
     ./solver/solver map.txt
