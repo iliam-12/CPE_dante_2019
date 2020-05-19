@@ -6,5 +6,5 @@ PDF available
 #### solve this maze :
      ./solver/solver map.txt
 ## What does it looks like :
-![generated](https://user-images.githubusercontent.com/65111947/82348097-b7a1e100-99f8-11ea-80d2-407ac2488fa3.PNG)
-![solved](https://user-images.githubusercontent.com/65111947/82348156-c6889380-99f8-11ea-9114-e947216098fe.PNG)
+generated : ![generated](https://user-images.githubusercontent.com/65111947/82348097-b7a1e100-99f8-11ea-80d2-407ac2488fa3.PNG)
+solver : ![solved](https://user-images.githubusercontent.com/65111947/82348156-c6889380-99f8-11ea-9114-e947216098fe.PNG)
